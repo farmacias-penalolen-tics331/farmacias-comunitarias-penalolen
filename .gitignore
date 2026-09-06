@@ -1,0 +1,10 @@
+# Dependencias de Node (aplica para todas las subcarpetas)
+node_modules/
+dist/
+.angular/
+
+# Datos del contenedor Docker
+pgdata/
+
+# Variables de entorno (seguridad)
+.env
